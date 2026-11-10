@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Folded custom apparel"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1A33"/><stop offset=".55" stop-color="#0F2E5E"/><stop offset="1" stop-color="#1A4E96"/></linearGradient></defs><rect width="128" height="128" rx="26" fill="url(#g)"/>
+<rect x="24" y="82" width="80" height="20" rx="5" fill="#C9D4E5"/><path d="M38 84v16M90 84v16" stroke="#0F2E5E" stroke-opacity=".25" stroke-width="2"/>
+<rect x="24" y="60" width="80" height="20" rx="5" fill="#20C9A6"/><path d="M38 62v16M90 62v16" stroke="#0A1A33" stroke-opacity=".25" stroke-width="2"/>
+<path d="M29 30h21l14 10 14-10h21a5 5 0 0 1 5 5v18a5 5 0 0 1-5 5H29a5 5 0 0 1-5-5V35a5 5 0 0 1 5-5z" fill="#FFFFFF"/>
+<path d="M50 30l14 13 14-13" fill="none" stroke="#0F2E5E" stroke-width="2.6" stroke-linejoin="round"/><path d="M38 33v22M90 33v22" stroke="#0F2E5E" stroke-opacity=".18" stroke-width="2"/>
+<rect x="76" y="45" width="14" height="8" rx="2" fill="#0A7464"/></svg>

@@ -1,0 +1,38 @@
+# Muhammad Owais
+
+> Digital Marketing Executive based in Karachi, Pakistan. Plans and runs Meta Ads (Facebook, Instagram), click-to-WhatsApp and lead-form campaigns, creative testing and content; measures work by cost per lead, cost per sale and ROAS. Open to full-time roles.
+
+- Email: owaishanif.essa@gmail.com
+- WhatsApp: +92 331 2615778
+- LinkedIn: https://www.linkedin.com/in/muhammad-owais-685202333/
+- Markets: Pakistan, US, UK; content for UAE and Saudi Arabia (KSA) projects; 15+ industries
+- Certifications: Google Ads Search (Skillshop, 2026), Google Analytics GA4 (Skillshop, 2026); Meta Certified Media Buying Professional in progress
+- Education: BBA, Iqra University
+
+## Pages
+
+- [Home](https://muhammadowaisportfolio.github.io/): summary, results with sources, selected work, skills, experience, FAQ
+- [Case studies](https://muhammadowaisportfolio.github.io/work.html): all 13 projects and Ads Manager proof
+- [About](https://muhammadowaisportfolio.github.io/about.html): background, capabilities, working rules, certifications, education
+- [Experience](https://muhammadowaisportfolio.github.io/experience.html): roles, responsibilities and results, most recent first
+
+## Case studies
+
+- [1,189 WhatsApp enquiries from my own Meta ads](https://muhammadowaisportfolio.github.io/meta-ads-lead-generation.html): My own Meta click-to-WhatsApp campaigns brought 1,189 enquiries at PKR 13.71 each on average. In an equal-budget test, a plain fabric-spec video beat a colourful one: 728 enquiries at PKR 10.20, 43% cheaper than the next-best campaign.
+- [Cost per enquiry down 56%](https://muhammadowaisportfolio.github.io/food-brand-cost-per-enquiry.html): For a food brand's WhatsApp campaign, cost per enquiry fell from about PKR 49 in the early days to PKR 21.40 over the last 7 days (148 enquiries), with a best day of PKR 11.31. Weak ads were cut, the message and price got clearer, and decisions waited for weekly numbers.
+- [A US founder's LinkedIn, up 14% in month one](https://muhammadowaisportfolio.github.io/techcentera-linkedin-reddit.html): As Social Media Coordinator at TechCentera, a US AI automation company, I grew the founder's LinkedIn followers 14% in the first month, with 78% of the audience in the US, and built a value-first Reddit presence: 1,820 views on one post.
+- [Leads the sales team can actually call](https://muhammadowaisportfolio.github.io/life-insurance-lead-form.html): A life insurance lead form with qualifying questions on budget and decision maker brought 57 leads in its first 2 days at PKR 51.76 each, screening people before they reached an advisor.
+- [PKR 18–20 lakh in sales, still losing money on ads](https://muhammadowaisportfolio.github.io/ecommerce-break-even-roas.html): An online T-shirt brand had turned PKR 4–5 lakh of ad spend into PKR 18–20 lakh in sales, a ROAS of about 3.5. At a 15% margin, break-even was 6.7, so the two-month plan targets PKR 690 per order at an order value of PKR 4,500 or more.
+- [A PKR 4M launch plan for a new flour brand](https://muhammadowaisportfolio.github.io/flour-brand-launch-plan.html): A research-led PKR 4 million, 16-week launch plan for a new flour brand: paid media, 17 creators and offers, 49 ads and 120 organic posts, with stated assumptions replaced by real data after a two-week test.
+- [A Meta sales strategy for a luxury pret brand](https://muhammadowaisportfolio.github.io/luxury-pret-meta-strategy.html): A Meta sales strategy for a luxury pret brand with a fresh ad account: three ad sets (broad, interests, retargeting), 48 to 72 hours or PKR 1,500 to 3,000 per ad before any decision, and a 20% budget step for winners.
+- [Four years selling custom apparel to B2B buyers](https://muhammadowaisportfolio.github.io/b2b-promotional-apparel.html): For four years I ran a B2B promotional apparel business, selling custom apparel and uniforms to corporate, bulk and export buyers, with leads from my own Meta ads: 1,189 WhatsApp enquiries.
+- [A shoe catalogue turned into a social storefront](https://muhammadowaisportfolio.github.io/shoephoria-social-storefront.html): For an imported-shoes store, product photography and a four-part content system turned the catalogue into a consistent social storefront.
+- [Content calendars and video briefs for 20 brands](https://muhammadowaisportfolio.github.io/content-calendars-video-briefs.html): Monthly content calendars and scene-by-scene video briefs for 20 brands at the agency, with every price and spec claim checked before anything was posted.
+- [Influencio: a startup concept for influencer marketing](https://muhammadowaisportfolio.github.io/influencio-startup-concept.html): Influencio was a university startup concept: a subscription platform for SMEs and agencies to find micro and nano influencers without a middleman. A team of six, including me, built a marketing intelligence report, a market survey, a pricing model and a website prototype.
+- [What makes influencer marketing work: research with 505 people](https://muhammadowaisportfolio.github.io/influencer-marketing-research.html): In a study of 505 social media users in Karachi, an influencer's entertainment value (β 0.608) and expertise (β 0.263) raised engagement, while attractiveness lowered it (β −0.654). Engagement alone didn't create buying intent; expected value did.
+- [Google Ads and GA4, practised before live budgets](https://muhammadowaisportfolio.github.io/google-ads-ga4-practice.html): Google Ads and GA4, practised before live budgets: two Google certifications, a simulation Search campaign, GA4 analysis on a demo store and a high-ticket strategy exercise. No live client spend, and labelled as practice.
+
+## Notes
+
+- Costs are in Pakistani rupees (PKR). Some client names are withheld.
+- Practice and university work is labelled as such on each page.
